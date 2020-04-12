@@ -2,7 +2,7 @@
 
 ## PyBank
 
-* In this challenge, a Python script is created for analyzing the financial records of a company. Utilized a data set of financial data called [budget_data.csv](Desktop/GitHub/PyBank/Resources/budget_data.csv). The dataset is composed of two columns: `Date` and `Profit/Losses`. 
+* In this challenge, a Python script is created for analyzing the financial records of a company. Utilized a data set of financial data called [budget_data.csv](Instructions/PyBank/Resources/budget_data.csv). The dataset is composed of two columns: `Date` and `Profit/Losses`. 
 
 * Created a Python script that analyzes the records to calculate each of the following:
 
@@ -45,3 +45,4 @@
 ## Copyright
 
 Trilogy Education Services © 2018. All Rights Reserved.
+
